@@ -3,32 +3,24 @@
 
   <h1>Latent Spatial Memory for Video World Models</h1>
 
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://arxiv.org/abs/2604.24764">
+  <p align="center">
+    <a href="https://arxiv.org/abs/2604.24764">
           <img src="https://img.shields.io/badge/Paper-arXiv-b31b1b?style=for-the-badge&labelColor=111111" alt="Paper" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://microsoft.github.io/LatentSpatialMemory/">
+    </a>
+    <a href="https://microsoft.github.io/LatentSpatialMemory/">
           <img src="https://img.shields.io/badge/Project-Page-2ea44f?style=for-the-badge&labelColor=111111" alt="Project Page" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/microsoft/LatentSpatialMemory">
+    </a>
+    <a href="https://github.com/microsoft/LatentSpatialMemory">
           <img src="https://img.shields.io/badge/Code-Coming%20Soon-555555?style=for-the-badge&logo=github&labelColor=111111" alt="Code" />
-        </a>
-      </td>
-    </tr>
-  </table>
+    </a>
+  </p>
 
   <p>
     <a href="https://lhmd.top/">Weijie Wang</a><sup>1,*</sup> &nbsp;&nbsp;
     <a href="https://ziplab.co/people/">Haoyu Zhao</a><sup>1,*</sup> &nbsp;&nbsp;
     <a href="https://www.microsoft.com/en-us/research/people/yifanyang/">Yifan Yang</a><sup>2</sup> &nbsp;&nbsp;
     <a href="https://github.com/Chenfeng1271">Feng Chen</a><sup>3</sup> &nbsp;&nbsp;
-    <a href="https://steve-zeyu-zhang.github.io/">Zeyu Zhang</a><sup>1</sup><br />
+    <a href="https://steve-zeyu-zhang.github.io/">Zeyu Zhang</a><sup>1</sup> &nbsp;&nbsp;
     <a href="https://hexy.tech/">Yefei He</a><sup>1</sup> &nbsp;&nbsp;
     <a href="https://zichengduan.github.io/">Zicheng Duan</a><sup>3</sup> &nbsp;&nbsp;
     <a href="https://donydchen.github.io/">Donny Y. Chen</a><sup>4</sup> &nbsp;&nbsp;
