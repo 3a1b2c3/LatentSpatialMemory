@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <b>Mirage stores persistent 3D scene content directly as latent tokens.</b><br />
+  <b>Latent Spatial Memory stores persistent 3D scene content directly as latent tokens.</b><br />
   It avoids repeated RGB rendering and re-encoding from explicit 3D caches, enabling efficient spatial consistency for video world models.
 </p>
 
