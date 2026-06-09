@@ -92,7 +92,7 @@ If you find this project useful, please cite:
 @article{wang2026mirage,
   title   = {Latent Spatial Memory for Video World Models},
   author  = {Wang, Weijie and Zhao, Haoyu and Yang, Yifan and Chen, Feng and Zhang, Zeyu and He, Yefei and Duan, Zicheng and Chen, Donny Y. and Yang, Yuqing and Zhuang, Bohan},
-  journal = {arXiv preprint arXiv:2604.24764},
+  journal = {arXiv preprint arXiv:2606.09828},
   year    = {2026}
 }
 ```
