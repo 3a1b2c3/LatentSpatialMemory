@@ -13,6 +13,12 @@
     <a href="https://github.com/microsoft/LatentSpatialMemory">
           <img src="https://img.shields.io/badge/Code-Coming%20Soon-555555?style=for-the-badge&logo=github&labelColor=111111" alt="Code" />
     </a>
+
+<a href="https://github.com/microsoft/world-r1">
+      <img src="https://img.shields.io/badge/World--R1-Series-7c3aed?style=for-the-badge&logo=github&labelColor=111111" alt="World-R1 series" />
+</a>
+
+
   </p>
 
   <p>
